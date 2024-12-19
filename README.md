@@ -63,13 +63,6 @@ Os resultados desta análise servirão como base para a estratégia de lançamen
 
 ---
 
-## Documentação
-
-- **Notebook do Projeto**: [Link para o Jupyter Notebook]()  
-- **Apresentação para Investidores**: [Link para a apresentação em PDF]()
-
----
-
 ### Como Executar o Projeto
 
 1. Clone o repositório;  
@@ -149,13 +142,6 @@ This project aims to analyze the restaurant market in Los Angeles (LA) to assess
 ## Expected Results
 
 The results of this analysis will serve as a basis for the strategy to launch and expand the café with robot waiters, helping attract investors and plan operations effectively.
-
----
-
-## Documentation
-
-- **Project Notebook**: [Link to the Jupyter Notebook]()  
-- **Investor Presentation**: [Link to the PDF presentation]()
 
 ---
 
